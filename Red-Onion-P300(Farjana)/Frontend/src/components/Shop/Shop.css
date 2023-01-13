@@ -1,0 +1,25 @@
+.manageCategory ul li{
+    list-style: none;
+    margin: 30px 30px;
+}
+
+.manageCategory ul li a{
+    color:#d9534f;
+}
+
+.manageCategory ul li a:hover{
+    color: red;
+    text-decoration: none;
+}
+
+
+.checkoutBtn{
+    position: absolute;
+    left: 638px;
+    top:1730px;
+    border: none;
+    padding: 5px 50px;
+    border-radius: 10px;
+
+}
+

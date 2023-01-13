@@ -1,0 +1,60 @@
+.footerArea{
+    margin-top: 250px;
+    background-color: black;
+    width:100%;
+    height:320px;
+    padding: 70px 70px;
+}
+
+
+
+
+.footerLogo img{
+    width:300px;
+    position: absolute;
+    left:100px
+}
+
+.otherInfo ul li{
+    list-style: none;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    text-align: initial;
+}
+
+.otherInfo ul li a{
+    color:white;
+   
+}
+
+.otherInfo ul li a:hover{
+    color: lightgrey;
+    text-decoration: none;
+}
+
+
+.footerBottom{
+    display: flex;
+    margin-top: 35px;
+}
+
+.footerBottom p{
+    position: absolute;
+    left:110px;
+    color:lightgrey
+}
+
+.policy{
+    position: relative;
+    left:1117px;
+}
+
+.footerBottom a{
+    color: white;
+    margin-right: 20px;
+}
+
+.footerBottom a:hover{
+    color:lightgrey;
+    text-decoration: none;
+}

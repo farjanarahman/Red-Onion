@@ -1,0 +1,24 @@
+.authArea{
+    margin-top: 150px !important;
+}
+.btn{
+    display: block;
+    text-transform: none;
+    width:300px;
+}
+
+.googleBtnImg{
+    margin-bottom:3px; 
+    margin-right:5px;
+    width: 18px;
+}
+
+.googleSignInBtn{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.signOutBtn{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}

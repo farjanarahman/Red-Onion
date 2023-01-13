@@ -1,0 +1,54 @@
+.logo img{
+    height: 80px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.manageUser ul li{
+    list-style: none;
+    margin-top: 20px;
+}
+
+.manageUser{
+   margin-left: 873px;
+}
+
+.manageUser ul li a{
+    text-decoration: none;
+    margin-left: 8px;
+    margin-right: 5px;
+    
+}
+
+.cartIcon{
+    border: none;
+    background-color: white;
+    margin-left: -40px;
+}
+.logIn{
+    color:black;
+}
+.signUp{
+    background-color:#dc3545;
+    color:white;
+    padding: 3px 20px;
+    border-radius: 50px;
+    border:none;
+    margin-right: 20px;
+}
+
+.btn-danger{
+   
+}
+
+.signUpBtn{
+    color:white;
+    padding: 0 12px;
+    padding-bottom: 5px;
+    padding-top: 2px;
+    border-radius: 50px;
+    border:none; 
+    
+}
+
+
